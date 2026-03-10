@@ -1,0 +1,3531 @@
+{
+  "Foundation": [
+    {
+      "difficulty": "Easy",
+      "question": "What is medical ethics?",
+      "answer": "It judges right and wrong in medicine by examining choices, hidden assumptions, and power."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is authority in medicine?",
+      "answer": "It raises the question of who decides and whether that authority is justified."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "When does ethics matter most in medicine?",
+      "answer": "It matters most when medicine does not give one mechanically obvious answer."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is hidden assumptions in care?",
+      "answer": "It makes unspoken beliefs visible so they can be criticized rather than obeyed blindly."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is power over the body?",
+      "answer": "It asks whether control over the patient's body was respected or overridden."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is ethics and uncertainty?",
+      "answer": "It helps justify action when people disagree about what should be done."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is law and morality?",
+      "answer": "It links moral judgment to the legal limits that society places on medicine and the state."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is patient-centered medicine?",
+      "answer": "It marks the shift from physician dominance toward shared decision-making and refusal rights."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What does 1847 Code of Medical Ethics mean?",
+      "answer": "It treated the patient's role as prompt and implicit obedience to the physician."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is compelling state interest?",
+      "answer": "It is the standard used to justify state interference with important individual rights."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What are implied rights?",
+      "answer": "They are rights drawn from basic freedoms and help support privacy and bodily choice."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is collaborative physician-patient relationship?",
+      "answer": "It replaces command-and-obey medicine with recommendation, participation, and refusal."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is right to refuse treatment?",
+      "answer": "It shows that medical expertise does not erase patient control over the body."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is making assumptions explicit?",
+      "answer": "It exposes ideas like doctor-knows-best so they can be judged directly."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is ethics as analysis of power?",
+      "answer": "It studies who is vulnerable, who decides, and how authority is used."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is law as record of ethical conflict?",
+      "answer": "Cases show how society has struggled over privacy, freedom, and acceptable state power."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in paternalism in the older model?",
+      "answer": "It assumed disagreement from the patient was a problem rather than a right."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in must-not tradition?",
+      "answer": "It limits the state mainly by what it may not do to individuals."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in ethics beyond surface conduct?",
+      "answer": "It evaluates the assumptions and power relations underneath visible actions."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in authority shared rather than absolute?",
+      "answer": "Modern medicine treats physician recommendation and patient choice as separate powers."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is autonomy?",
+      "answer": "Autonomy is the patient's ability and right to make personal medical choices."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is beneficence?",
+      "answer": "Beneficence is the duty to act for the patient's good."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is nonmaleficence?",
+      "answer": "Nonmaleficence means avoiding preventable harm."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is justice in medicine?",
+      "answer": "Justice asks whether benefits and burdens are shared fairly."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why is medicine never only technical?",
+      "answer": "Because treatment always affects values, power, and human lives."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What makes a medical decision ethical?",
+      "answer": "An ethical decision gives reasons for what should be done and why."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why do values matter in health care?",
+      "answer": "They shape goals, tradeoffs, and what counts as a good outcome."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is a conflict of values?",
+      "answer": "It is a clash between important goods that cannot all be fully satisfied."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What does vulnerability mean in medicine?",
+      "answer": "It means a person is at special risk of being harmed, pressured, or ignored."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why does trust matter in medicine?",
+      "answer": "Patients rely on clinicians when they are vulnerable and lack equal knowledge."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is paternalism?",
+      "answer": "Paternalism is overruling a person's choice for that person's supposed good."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why is fairness a medical issue?",
+      "answer": "Because access, risk, and treatment are not distributed equally."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why can two ethical duties pull in different directions?",
+      "answer": "Because helping one value, like safety, can restrict another, like freedom."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is patient choice not the only moral concern?",
+      "answer": "A choice can affect other people, use shared resources, or rest on poor information."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How is an ethical argument stronger than a personal opinion?",
+      "answer": "It gives reasons that others can examine, challenge, and defend."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why does power matter in clinical settings?",
+      "answer": "Doctors, hospitals, and systems can shape choices before a patient even speaks."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can language change a medical decision?",
+      "answer": "The words used can frame a choice as normal, risky, urgent, or selfish."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is informed refusal also ethically important?",
+      "answer": "Patients have a right to say no, not just a right to say yes."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why are scarce resources an ethical problem?",
+      "answer": "Not everyone can get everything, so someone must decide priorities."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is the difference between equality and equity?",
+      "answer": "Equality gives the same to all, while equity responds to different needs and barriers."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why can hospital policy raise ethical problems?",
+      "answer": "A policy may be efficient yet still unfair or insensitive to individual cases."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can bias affect ethical judgment?",
+      "answer": "Bias can distort who seems credible, risky, deserving, or competent."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is transparency important in medicine?",
+      "answer": "People should know the reasons, limits, and interests behind decisions."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why can a good outcome still come from a bad decision process?",
+      "answer": "Luck can hide weak reasoning, coercion, or unfair treatment."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is medical ethics often about tradeoffs instead of perfect answers?",
+      "answer": "Because real cases involve competing duties that cannot all be maximized at once."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is respect for persons broader than getting consent?",
+      "answer": "It also includes honesty, privacy, dignity, and protection from exploitation."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "How can a system be unethical even if each clinician means well?",
+      "answer": "Structures can still create exclusion, pressure, or unequal care."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why does clinical uncertainty make ethics harder?",
+      "answer": "When facts are unclear, value judgments carry even more weight."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why should medicine question its own hidden assumptions?",
+      "answer": "Because ideas about normality, risk, and worth can quietly shape care."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is ethics not optional once the science is known?",
+      "answer": "Facts describe what is possible, but ethics decides what should be done."
+    }
+  ],
+  "Informed consent": [
+    {
+      "difficulty": "Easy",
+      "question": "What is informed consent?",
+      "answer": "It protects meaningful patient choice by requiring permission joined with understanding."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is bodily integrity?",
+      "answer": "It means the patient has a claim over what may be done to the body."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is medical permission?",
+      "answer": "Permission in medicine is not real unless the patient actually understands enough to choose."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is consent and autonomy?",
+      "answer": "Consent turns treatment into an authorized act instead of an unwanted intrusion."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is material risk disclosure?",
+      "answer": "It focuses disclosure on risks that would matter to a reasonable decision-maker."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is unauthorized treatment?",
+      "answer": "Treatment without valid consent can become a legal and ethical wrong."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is emergency treatment without consent?",
+      "answer": "It is allowed only when the patient cannot choose and delay is impossible."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is patient information before treatment?",
+      "answer": "The point is not endless detail but enough understanding for real choice."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What does Schloendorff show?",
+      "answer": "It established that consent to examination is not the same as consent to surgery."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What does Canterbury show?",
+      "answer": "It strengthened the duty to disclose significant risks relevant to patient decision-making."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is signed consent form?",
+      "answer": "It is evidence of consent, not proof that understanding actually occurred."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is reasonable person standard?",
+      "answer": "It asks which risks a reasonable patient would likely care about."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is medical battery?",
+      "answer": "It refers to unauthorized medical touching or intervention."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is express consent?",
+      "answer": "It is clearly stated agreement to a procedure."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What are implied consent?",
+      "answer": "It may operate in limited situations such as emergencies."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is full disclosure?",
+      "answer": "The law does not demand every remote detail, only the risks that are materially important."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in materiality?",
+      "answer": "It filters disclosure by asking what would be significant to a real treatment choice."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in emergency exception?",
+      "answer": "It excuses the absence of consent only when urgency and incapacity make choice impossible."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in older battery logic?",
+      "answer": "It treated unauthorized surgery as a bodily wrong even if the doctor acted skillfully."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in patient-centered disclosure rule?",
+      "answer": "It shifted the focus from what doctors prefer to say to what patients need to know."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What are the main parts of informed consent?",
+      "answer": "Disclosure, understanding, voluntariness, capacity, and permission."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is disclosure?",
+      "answer": "Disclosure is giving the patient the information needed for a real choice."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is capacity?",
+      "answer": "Capacity is the ability to understand, reason, decide, and communicate a choice."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What does voluntariness mean?",
+      "answer": "Voluntariness means the choice is made without coercion or improper pressure."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Is a signed form enough for informed consent?",
+      "answer": "No. A signature alone does not prove real understanding."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "When can consent be implied in emergency care?",
+      "answer": "It can be inferred when urgent treatment is needed and the patient cannot give explicit permission."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why must risks be discussed?",
+      "answer": "Patients need to know important downsides before choosing."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is a benefit in consent discussions?",
+      "answer": "A benefit is a possible good result of the treatment or procedure."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why must alternatives be mentioned?",
+      "answer": "A choice is weak if the patient never hears other reasonable options."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Can a patient change their mind after consenting?",
+      "answer": "Yes. Consent can be withdrawn."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is medical coercion?",
+      "answer": "It is pressure that overwhelms free choice."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why is plain language important during consent?",
+      "answer": "Patients cannot choose well if the explanation is too technical."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why does consent fail when the patient only repeats words back?",
+      "answer": "Memorizing words is not the same as grasping meaning and consequences."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why can fear weaken voluntariness?",
+      "answer": "A frightened patient may agree mainly to escape anxiety rather than after calm judgment."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How does emergency care change consent rules?",
+      "answer": "Immediate danger can justify treatment when explicit consent cannot be obtained in time."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why does material risk matter?",
+      "answer": "Doctors must disclose risks that a reasonable person would find important to the decision."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is timing part of good consent?",
+      "answer": "Information given too late leaves no real room for reflection or questions."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can family pressure interfere with consent?",
+      "answer": "Relatives may steer the patient toward what the family wants instead of what the patient wants."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why should clinicians check understanding instead of assuming it?",
+      "answer": "People may nod politely while still misunderstanding the choice."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why can too much information also be a problem?",
+      "answer": "Dumping details without structure can confuse rather than inform."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What makes refusal informed rather than impulsive?",
+      "answer": "The patient understands the likely consequences and still chooses no."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why must consent match the actual procedure?",
+      "answer": "Permission for one act does not automatically cover a different one."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can medical hierarchy affect consent?",
+      "answer": "Patients may agree because they feel they should obey the expert."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is consent an ongoing process?",
+      "answer": "New findings or changes in plan can require renewed discussion and choice."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is respect for autonomy not the same as abandoning guidance?",
+      "answer": "Clinicians should advise clearly while still leaving the final decision to the patient."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why can formal consent exist without ethical consent?",
+      "answer": "The paperwork may be complete while understanding or freedom is missing."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "How does cultural difference complicate consent?",
+      "answer": "Ideas about family role, authority, and disclosure can vary across communities."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why should consent focus on what matters to this patient, not just the average patient?",
+      "answer": "A risk can be especially important because of the person's job, beliefs, or goals."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is deception incompatible with informed consent?",
+      "answer": "A choice built on false information is not truly the patient's own choice."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why does informed consent protect dignity as well as choice?",
+      "answer": "It treats the patient as a person to be reasoned with, not a body to be managed."
+    }
+  ],
+  "Children and medical decision-making": [
+    {
+      "difficulty": "Easy",
+      "question": "What are medical decisions involving children?",
+      "answer": "They involve the child, the parent, and society rather than only one chooser."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is child autonomy?",
+      "answer": "It is developing rather than complete, so maturity matters alongside protection."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is parental power over treatment?",
+      "answer": "It is important but not unlimited when the child's welfare is at stake."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "How can a child's medical choice become a public-health issue?",
+      "answer": "They can widen a private family choice into a social problem."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why is research on children harder to justify?",
+      "answer": "It is harder to justify because children are vulnerable and cannot consent like adults."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What are vaccination disputes involving children?",
+      "answer": "They raise conflict between parental control and community protection."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is protection of children?",
+      "answer": "It can justify limits on refusal when the risk becomes unacceptable."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What are childhood illness and ethics?",
+      "answer": "They force medicine to balance vulnerability, family authority, and social interest."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is maturity?",
+      "answer": "It influences how much weight a child's own wishes should receive."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is polio as an ethics example?",
+      "answer": "It combined widespread fear, urgency, and heavy disease burden in children."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What does 1.8 million children in the Salk trials mean?",
+      "answer": "The scale intensified questions about proxy permission and acceptable pediatric risk."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is double-blind vaccine trial design?",
+      "answer": "It shows how scientific rigor can intensify ethical questions when children are the subjects."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is massive consent?",
+      "answer": "It names the difficulty of justifying large-scale pediatric research through proxy authorization."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is parental refusal?",
+      "answer": "It becomes harder to defend when it exposes the child to serious avoidable harm."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is society as third party?",
+      "answer": "The state may step in when private family choices endanger children or others."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is developing autonomy?",
+      "answer": "It requires listening to the child without pretending every child has adult decisional power."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in Salk vaccine declared effective?",
+      "answer": "It marked a turning point because intense pediatric risk finally met convincing preventive success."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in polio age burden?",
+      "answer": "The disease was ethically powerful because it heavily concentrated harm in the young."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in proxy permission in research?",
+      "answer": "Permission by adults does not automatically settle whether a child's enrollment is justified."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in child refusal?",
+      "answer": "It may matter morally even when it is not legally decisive because capacity develops gradually."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Who usually makes medical decisions for young children?",
+      "answer": "Parents or legal guardians usually decide for them."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why are children treated differently from adults in consent?",
+      "answer": "Children often lack full legal authority and sometimes lack full decision-making capacity."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is assent?",
+      "answer": "Assent is the child's affirmative agreement when full legal consent is not possible."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why should a child still be involved in discussion?",
+      "answer": "Involvement shows respect and can improve trust and cooperation."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is the best-interest standard?",
+      "answer": "It asks what choice most promotes the child's welfare."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Can parents refuse every treatment they dislike?",
+      "answer": "No. Refusal can be challenged when it seriously endangers the child."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is a mature minor?",
+      "answer": "A mature minor is an adolescent treated as capable of making some medical decisions."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why is age alone not enough to judge decision ability?",
+      "answer": "Understanding and judgment differ from child to child."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is parental permission?",
+      "answer": "It is a parent's authorization for a child's medical care."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why can confidentiality matter for teenagers?",
+      "answer": "Privacy can make adolescents more willing to seek care."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is medical neglect?",
+      "answer": "It is failing to obtain needed care for a child."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why do doctors sometimes disagree with parents?",
+      "answer": "Parents and clinicians may define the child's good differently."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is assent weaker than consent?",
+      "answer": "The child's view matters, but the child may not have final legal authority."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "When can the state step into family medical decisions?",
+      "answer": "When parental choices place the child at serious risk of avoidable harm."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why are adolescents special in medical ethics?",
+      "answer": "They may understand enough to reason well even before full adulthood."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can religious refusal become an ethical conflict in pediatrics?",
+      "answer": "Parents may cite faith while clinicians focus on preventing severe harm to the child."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why should doctors explain treatment in child-friendly language?",
+      "answer": "Children cannot participate meaningfully if the explanation is built for adults."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is forced treatment especially sensitive with children?",
+      "answer": "It can protect health but also damage trust and cause trauma."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can family interest conflict with child interest?",
+      "answer": "A family may protect beliefs, finances, or reputation in ways that burden the child."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why are vaccine decisions for children ethically charged?",
+      "answer": "They affect both the child's welfare and community health."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What makes adolescent refusal hard to judge?",
+      "answer": "The teen may show real understanding, yet the stakes can be very high."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why can doctors sometimes keep teen information private from parents?",
+      "answer": "Some systems protect confidentiality to encourage care for sensitive issues."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How does chronic illness change pediatric decision-making?",
+      "answer": "Older children may gain practical understanding from living with the condition."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why does the best-interest standard have limits?",
+      "answer": "Reasonable people can disagree about what truly best serves the child."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is pediatric ethics a three-way relationship?",
+      "answer": "The child, the parents, and the clinicians can all have morally relevant views."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why can honoring a teenager's choice be both respectful and risky?",
+      "answer": "Respect supports growing autonomy, but serious harms may still follow."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "How does harm differ from mere disagreement in child cases?",
+      "answer": "The state should not override parents for ordinary disagreement, only for serious danger."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why should a child's resistance not be ignored even when treatment goes ahead?",
+      "answer": "Resistance may signal fear, mistrust, or values that still deserve moral weight."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is the family not an unlimited moral shield in pediatrics?",
+      "answer": "Parental authority exists to serve the child, not to control the child without limit."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why can delaying a decision sometimes be ethically better in adolescent care?",
+      "answer": "Waiting may allow the young person to understand more and participate more fully."
+    }
+  ],
+  "Human Experimentation": [
+    {
+      "difficulty": "Easy",
+      "question": "Why is experimentation on humans morally risky from the start?",
+      "answer": "Because research can treat people as means to knowledge unless strong protections are in place."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is research and consent?",
+      "answer": "Research without real consent turns scientific ambition into abuse."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is scientific value?",
+      "answer": "Human risk needs meaningful purpose rather than pointless or duplicative study."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is limits on research suffering?",
+      "answer": "Human subjects may not be exposed to unnecessary physical or mental harm."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is research oversight?",
+      "answer": "It exists to prevent knowledge-seeking from overwhelming subject welfare."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is subject withdrawal?",
+      "answer": "Participants remain free persons who may stop participation."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is research after historical abuses?",
+      "answer": "Modern protections exist because past medicine showed how badly power can be misused."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is medicine and domination?",
+      "answer": "The topic warns that professional expertise can become cruelty when moral limits collapse."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What does Nuremberg Code mean?",
+      "answer": "It set voluntary consent as the starting rule for ethical human research."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What are social value requirement?",
+      "answer": "It rejects exposing people to risk for useless science."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is prior animal work?",
+      "answer": "Preparation is meant to reduce reckless first-contact experimentation on humans."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is researcher duty to stop?",
+      "answer": "Investigators must end a study when danger becomes too great."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What does Tuskegee show?",
+      "answer": "It became infamous because treatment was withheld from Black men even after effective therapy existed."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What does Belmont protections show?",
+      "answer": "They strengthened informed consent and subject welfare in modern research ethics."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What does Nazi experiments show?",
+      "answer": "They revealed how medicine can be turned into organized domination rather than healing."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is voluntary participation?",
+      "answer": "Ethical research requires legal capacity, free choice, and sufficient understanding."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in penicillin in Tuskegee?",
+      "answer": "Its existence made continued non-treatment morally devastating rather than merely negligent."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in structural ethics?",
+      "answer": "The lesson is not only that individuals were evil but that institutions enabled abuse."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in consent alone?",
+      "answer": "Even agreed participation is not enough if a study is pointless or grossly harmful."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in subjects as persons not instruments?",
+      "answer": "This is the line separating ethical research from mere human use."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is human experimentation?",
+      "answer": "It is research that studies people to produce generalizable knowledge."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why is voluntary consent central in research?",
+      "answer": "People must not be used as mere tools for science."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is a research subject?",
+      "answer": "A research subject is the person who takes part in a study."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is a control group?",
+      "answer": "It is the comparison group used to judge the effect of an intervention."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why is risk review needed before a study begins?",
+      "answer": "Potential harms must be evaluated before people are enrolled."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is exploitation in research?",
+      "answer": "It is taking unfair advantage of participants for scientific gain."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why does history matter in research ethics?",
+      "answer": "Past abuses showed how easily science can override human dignity."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is therapeutic misconception?",
+      "answer": "It is mistaking research participation for ordinary individualized treatment."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why are vulnerable groups given extra protection?",
+      "answer": "They may be easier to pressure, mislead, or use unfairly."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is informed consent in research?",
+      "answer": "It is agreement to participate after understanding the study, risks, and alternatives."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Can subjects leave a study after joining?",
+      "answer": "Yes. Participation should remain voluntary."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why are placebos ethically sensitive?",
+      "answer": "They can involve withholding active treatment from some participants."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is good science itself an ethical requirement?",
+      "answer": "Bad research exposes people to risk without enough social value."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How is research different from clinical care?",
+      "answer": "Research aims to produce knowledge, while clinical care primarily aims to help the patient."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why must subject selection be fair?",
+      "answer": "Researchers should not dump burdens on one group while others get the benefits."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why can payment for research be ethically tricky?",
+      "answer": "Money can encourage participation, but too much can distort free choice."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can desperation make consent weaker in experiments?",
+      "answer": "Very sick or poor people may join because they feel they have no real alternative."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why should studies stop early when harm appears?",
+      "answer": "The search for knowledge does not justify continuing avoidable injury."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What makes deception especially serious in research?",
+      "answer": "Participants lose the ability to choose knowingly when key facts are hidden."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is independent oversight important in experimentation?",
+      "answer": "Researchers may be too invested in the study to judge it impartially."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can publication bias become an ethical issue?",
+      "answer": "If bad results vanish, future patients and subjects face avoidable risk."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is community mistrust relevant to research ethics?",
+      "answer": "Past abuse can make enrollment and consent more fragile and morally complicated."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is the ethical problem with using prisoners or institutionalized people in studies?",
+      "answer": "Restricted freedom can make true voluntariness doubtful."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why are first-in-human trials especially sensitive?",
+      "answer": "The unknown risk is high and the direct benefit is often uncertain."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is consent necessary but not sufficient for ethical research?",
+      "answer": "A person may agree to a study that is still poorly designed, unfair, or excessively risky."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why can social benefit not excuse abusive experiments?",
+      "answer": "Human beings cannot be sacrificed for knowledge as if they were raw material."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "How does the Nuremberg legacy shape modern research ethics?",
+      "answer": "It established that voluntary consent and protection from abuse are nonnegotiable."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is the line between innovation and experimentation morally important?",
+      "answer": "Calling something treatment can hide that the intervention is really being tested."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why do low-resource settings create special research concerns?",
+      "answer": "Studies may shift risk onto populations with fewer protections and less bargaining power."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why must researchers think about what happens after the trial ends?",
+      "answer": "It can be unjust to use participants for data and then leave them without access or follow-up."
+    }
+  ],
+  "Physician-Assisted Death": [
+    {
+      "difficulty": "Easy",
+      "question": "When is assisted death legally framed as patient-controlled?",
+      "answer": "It is framed as patient-controlled when the patient chooses and performs the final act."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is self-administered lethal medication?",
+      "answer": "It is the legal form of physician assistance under Oregon's model."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is autonomy at the end of life?",
+      "answer": "It supports the idea that a competent dying person may control the manner of death."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Who performs the final act in assisted death versus euthanasia?",
+      "answer": "In assisted death the patient performs the final act; in euthanasia another person does."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is terminal illness requirement?",
+      "answer": "The law limits access to patients expected to die within a defined time frame."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is capacity in end-of-life choice?",
+      "answer": "The choice must come from a patient able to make healthcare decisions."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is procedural safeguards?",
+      "answer": "Repeated requests and waiting periods are meant to slow rash or impaired decisions."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is alternatives to assisted death?",
+      "answer": "Hospice, comfort care, and pain control must be addressed before proceeding."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What are two oral requests and one written request?",
+      "answer": "They create procedural hurdles meant to test persistence and deliberation."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What does 15-day waiting period mean?",
+      "answer": "It is meant to reduce impulsive or pressured choices."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is second physician review?",
+      "answer": "It checks diagnosis, prognosis, and decisional capacity."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is psychological referral?",
+      "answer": "It becomes important when impaired judgment is suspected."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What does 1997 Supreme Court ruling show?",
+      "answer": "It held that there is no constitutional right to assisted suicide."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is healer's role?",
+      "answer": "Opponents worry that helping death corrupts what medicine is for."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why do palliative alternatives matter in assisted-death debates?",
+      "answer": "Their availability matters because some suffering can be treated without assisted death."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is self-administration line?",
+      "answer": "It is the legal hinge used to distinguish PAS from direct physician killing."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in legal weight of the final act?",
+      "answer": "Keeping the final act with the patient marks the difference between assistance and euthanasia."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in prognostic uncertainty?",
+      "answer": "Predictions about time to death can be mistaken, which complicates eligibility and morality."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in persistent request?",
+      "answer": "The law treats repetition as evidence that the choice is stable rather than momentary."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in mercy versus medical boundary?",
+      "answer": "The debate centers on whether relief of suffering justifies crossing into facilitation of death."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is physician-assisted death?",
+      "answer": "It is when a doctor helps a patient die under legal conditions, usually by prescribing lethal medication."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "How is physician-assisted death different from euthanasia?",
+      "answer": "In assisted death, the patient performs the final act; in euthanasia, another person directly causes death."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why do some patients request assisted death?",
+      "answer": "They may fear suffering, loss of control, or loss of dignity."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is terminal illness?",
+      "answer": "It is a condition expected to lead to death within a limited time."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why is capacity important in assisted-death laws?",
+      "answer": "The patient must be able to make a real and informed decision."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is palliative care?",
+      "answer": "Palliative care focuses on relief of suffering and support rather than cure."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is hospice care?",
+      "answer": "Hospice is end-of-life care centered on comfort."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why is depression relevant in these cases?",
+      "answer": "A treatable mental condition can distort judgment about death."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why do laws usually require repeated requests?",
+      "answer": "Repeated requests help show that the wish is stable rather than impulsive."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is dignity in end-of-life debates?",
+      "answer": "Dignity often refers to living and dying in a way that fits the person's values."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why is prognosis important?",
+      "answer": "Eligibility often depends on how close death is expected to be."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Can a patient refuse life-sustaining treatment without asking for assisted death?",
+      "answer": "Yes. Refusing treatment is a separate right."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why do supporters connect assisted death to autonomy?",
+      "answer": "They argue that competent people should control the timing and manner of death in extreme suffering."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why do opponents worry about pressure?",
+      "answer": "Sick people may feel they are burdens to family or society."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How is pain different from suffering in these debates?",
+      "answer": "Pain is physical, while suffering can include fear, dependence, and loss of meaning."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is the slippery-slope argument common here?",
+      "answer": "Critics fear that narrow exceptions may expand over time."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is conscience protection discussed for doctors?",
+      "answer": "Some clinicians believe helping death conflicts with the goals of medicine."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can poor access to care affect requests for assisted death?",
+      "answer": "A request may reflect untreated pain, isolation, or lack of support rather than a settled wish to die."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why do waiting periods matter?",
+      "answer": "They create time for reflection, alternatives, and confirmation of the choice."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is self-administration ethically emphasized in many laws?",
+      "answer": "It keeps the final control in the patient's hands."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can disability critics challenge assisted-death policy?",
+      "answer": "They warn that society may treat dependent lives as less worth living."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why must alternatives be discussed before approving assisted death?",
+      "answer": "The request should not rest on ignorance of symptom control or support options."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What makes coercion hard to detect at the end of life?",
+      "answer": "Pressure can be subtle, emotional, and internalized rather than openly stated."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why can loss of autonomy feel worse than pain to some patients?",
+      "answer": "Dependence itself can be experienced as a deep injury to identity."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is physician-assisted death debated as a question about the goals of medicine?",
+      "answer": "It asks whether medicine should only heal and comfort or may also help end life."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is a voluntary request not automatically enough to justify assisted death?",
+      "answer": "Society also weighs professional duty, protection of the vulnerable, and the meaning of medical practice."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "How can unequal social conditions distort the language of choice at the end of life?",
+      "answer": "A person may choose death within a world that failed to offer adequate care or support."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is withdrawing treatment often treated differently from prescribing lethal drugs?",
+      "answer": "One allows disease to take its course, while the other intentionally provides the means to end life."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why does prognosis uncertainty complicate assisted-death laws?",
+      "answer": "Patients may outlive predictions, so the line between dying soon and living longer is not exact."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why can the same case be framed as either compassion or abandonment?",
+      "answer": "Helping death may relieve suffering, but it can also look like giving up on care."
+    }
+  ],
+  "Reproductive Ethics and Family Formation": [
+    {
+      "difficulty": "Easy",
+      "question": "Why is reproduction a moral issue and not only a private wish?",
+      "answer": "Because reproductive choices affect bodies, families, laws, and social expectations."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is family formation?",
+      "answer": "The topic examines who can access technologies that shape having children."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is infertility treatment?",
+      "answer": "It is not just medical care; it also carries emotional, social, and financial burdens."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What does IVF show?",
+      "answer": "It shows how a technology can help families while also exposing inequality."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is state interest in reproduction?",
+      "answer": "Population decline and aging can make fertility a public policy concern."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is gender burden in infertility?",
+      "answer": "Women often bear more of the physical and social costs."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is stigma and infertility?",
+      "answer": "Infertility can affect status, marriage, and family pressure."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is access to reproductive technology?",
+      "answer": "Availability on paper does not mean equal real-world access."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How is China using IVF policy to address population decline?",
+      "answer": "IVF was discussed as both treatment for infertility and a demographic strategy."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How expensive is one IVF cycle?",
+      "answer": "The financial burden matters because multiple rounds may be required."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What does a 30 percent IVF success rate mean?",
+      "answer": "This means repeated treatment is common rather than exceptional."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What barriers make fertility treatment harder to access?",
+      "answer": "Care may still be out of reach despite legal availability."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How does the one-child policy still affect fertility ethics?",
+      "answer": "Past reproductive control still shapes present fertility ethics."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is physical burden?",
+      "answer": "Hormones, procedures, and repeated attempts can place heavy strain on patients."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is family pressure?",
+      "answer": "The desire for children is often intensified by social expectation, not only private wish."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is reproduction as political?",
+      "answer": "Population goals can reshape how infertility treatment is funded or encouraged."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in double-edged IVF support?",
+      "answer": "A policy can relieve infertility while also treating births as an instrument of state demographic goals."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in unequal access to family formation?",
+      "answer": "Technology can widen inequality when only some can afford repeated, travel-intensive care."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in gendered cost of policy?",
+      "answer": "A pronatalist approach can rely on women's bodies to solve public demographic problems."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "How can reproduction become both a private desire and a public strategy?",
+      "answer": "This overlap is the central ethical tension in modern reproductive policy."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is reproductive ethics?",
+      "answer": "It studies moral questions about having children, avoiding pregnancy, and forming families."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is IVF?",
+      "answer": "IVF is in vitro fertilization, where fertilization occurs outside the body."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is surrogacy?",
+      "answer": "Surrogacy is when one person carries a pregnancy for someone else."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is gamete donation?",
+      "answer": "It is the donation of sperm or eggs for reproduction."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why is infertility ethically important?",
+      "answer": "It can cause major suffering, stigma, and unequal access to treatment."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is embryo selection?",
+      "answer": "It is choosing which embryo to implant based on certain traits or test results."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why does cost matter in reproductive medicine?",
+      "answer": "Many technologies are expensive and unavailable to many people."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is reproductive autonomy?",
+      "answer": "It is the freedom to decide whether and how to have children."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why can reproduction be socially pressured?",
+      "answer": "Families and cultures may tie status, duty, or identity to having children."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is prenatal testing?",
+      "answer": "It is testing during pregnancy for genetic or developmental conditions."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why is consent important in fertility treatment?",
+      "answer": "These choices can involve physical risk, emotional strain, and future family consequences."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is a donor-conceived child?",
+      "answer": "It is a child conceived using donated sperm or eggs."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is IVF not only a technical procedure but also an ethical issue?",
+      "answer": "It raises questions about access, embryo status, and the meaning of parenthood."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why can surrogacy raise exploitation concerns?",
+      "answer": "Financial need may push women to take burdensome reproductive risks for others."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can reproductive technology widen inequality?",
+      "answer": "Wealthier people can buy options that poorer people cannot access."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is anonymous donation ethically debated?",
+      "answer": "Children may later want to know their genetic origins."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is the concern with trait selection beyond disease avoidance?",
+      "answer": "It can turn children into projects shaped by consumer preference."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why does multiple-embryo transfer create ethical concern?",
+      "answer": "It can raise the chance of risky multiple pregnancies."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can reproductive care challenge old ideas of family?",
+      "answer": "Technology separates genetic, gestational, and social parenthood."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why does stigma matter in infertility ethics?",
+      "answer": "Social shame can pressure couples into risky debt or painful treatment cycles."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why are cross-border fertility arrangements ethically complex?",
+      "answer": "Different laws and economic gaps can shift burdens onto poorer women or weaker systems."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why should clinics discuss success rates honestly?",
+      "answer": "Hope can be exploited when patients are desperate for a child."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What makes embryo disposal ethically controversial?",
+      "answer": "People disagree over the moral status of embryos."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why can family formation be both private and political?",
+      "answer": "Personal choices are shaped by law, insurance, and social norms."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why does reproductive autonomy have limits in ethical debate?",
+      "answer": "Choices about reproduction can affect children, donors, surrogates, and broader social values."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why can paying for reproductive labor look both empowering and exploitative?",
+      "answer": "Money can provide opportunity yet also take advantage of structural inequality."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "How does IVF separate the idea of parenthood into different parts?",
+      "answer": "It can divide biological, gestational, legal, and social roles among different people."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is selecting against severe disease ethically different from selecting for preferred traits?",
+      "answer": "The first aims to avoid serious suffering, while the second can slide toward consumer design."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why can reproductive technologies increase freedom while also increasing pressure?",
+      "answer": "More options can create new expectations to use them."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is the question of who counts as a parent ethically difficult in assisted reproduction?",
+      "answer": "Genes, pregnancy, intention, and care can point to different answers."
+    }
+  ],
+  "Medical tourism": [
+    {
+      "difficulty": "Easy",
+      "question": "How does medical tourism turn care into cross-border treatment?",
+      "answer": "It involves traveling to another country to obtain medical services."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why do patients travel abroad for care?",
+      "answer": "Common motives are lower cost, faster access, and unavailable treatment at home."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is cross-border treatment?",
+      "answer": "It can provide personal benefit while creating follow-up and justice problems."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is medical tourism and inequality?",
+      "answer": "Mobility allows wealthier patients to pursue options others cannot."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is controversial treatment abroad?",
+      "answer": "Travel can be used to obtain care restricted or unavailable at home."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is continuity of care after travel?",
+      "answer": "It is often weaker because treatment and follow-up happen in different systems."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is infection risk after overseas care?",
+      "answer": "Drug-resistant infection is a major concern."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What are global healthcare markets in medical tourism?",
+      "answer": "They can turn treatment into a cross-border service shaped by money and legal difference."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is weak record transfer a problem in medical tourism?",
+      "answer": "Missing records can make later complications harder to diagnose and manage."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is follow-up problems?",
+      "answer": "Complications may return to a home system that did not perform the original treatment."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why are organ markets ethically alarming?",
+      "answer": "They are ethically alarming because they exploit economically vulnerable people."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What are stem-cell or abortion travel?",
+      "answer": "These examples show that medical tourism includes controversial cross-border care, not only routine surgery."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is local justice?",
+      "answer": "Foreign patients may consume resources without strengthening care for local communities."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is resistant organisms?",
+      "answer": "Cross-border treatment can spread difficult infections across health systems."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is private gain versus public cost?",
+      "answer": "The traveler may benefit while the wider system absorbs complications or inequality."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is global mobility?",
+      "answer": "Access to treatment options is shaped by who can travel, pay, and navigate legal differences."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in not just healthcare shopping?",
+      "answer": "Medical tourism can shift burdens and risks onto people and systems beyond the paying patient."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in exploitation in organ travel?",
+      "answer": "The ethical problem is not only surgery but the social vulnerability behind the sale."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in legal evasion through travel?",
+      "answer": "Cross-border care can be sought precisely to escape domestic ethical or regulatory limits."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in system-level harm?",
+      "answer": "The core concern is that individual access may coexist with structural exploitation or displacement."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is medical tourism?",
+      "answer": "It is traveling to another country to receive medical care."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why do people seek care abroad?",
+      "answer": "They may want lower prices, faster access, or procedures unavailable at home."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is a common benefit of medical tourism?",
+      "answer": "It can make some treatments more affordable."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is a common risk of medical tourism?",
+      "answer": "Quality and follow-up care may be harder to verify."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why is language a problem in cross-border care?",
+      "answer": "Misunderstanding can weaken consent and safety."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is continuity of care?",
+      "answer": "It is ongoing coordination before and after treatment."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why can follow-up be difficult after surgery abroad?",
+      "answer": "The treating team is far away once the patient returns home."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "How can medical tourism affect local patients?",
+      "answer": "Resources may be directed toward foreign patients instead of residents."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why does accreditation matter?",
+      "answer": "It can give some evidence about standards, though it is not a guarantee."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is a broker in medical tourism?",
+      "answer": "A broker is a company or agent that arranges cross-border treatment."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why do waiting lists push patients abroad?",
+      "answer": "Travel may offer treatment sooner than the home system."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What ethical issue comes from price differences between countries?",
+      "answer": "Cheap care can depend on unequal wages and weaker protections."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is cheap treatment not the whole moral story?",
+      "answer": "A low price may hide risks, exploitation, or poor follow-up."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can medical tourism deepen global inequality?",
+      "answer": "Rich foreigners may buy care in places where local people still lack access."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is informed consent harder in medical tourism?",
+      "answer": "Patients may not fully understand laws, standards, or complications abroad."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can advertising distort decisions in this market?",
+      "answer": "Clinics may sell hope and understate risk to attract international patients."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is legal accountability difficult after harm abroad?",
+      "answer": "Different legal systems make malpractice claims harder to pursue."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why can transplant tourism be especially troubling?",
+      "answer": "It may rely on coercive or exploitative organ sourcing."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can tourism logic change medical priorities?",
+      "answer": "Clinics may favor profitable services over public health needs."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is the home doctor's role ethically awkward?",
+      "answer": "The home doctor may need to manage complications from care they did not recommend or control."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can cultural difference affect treatment decisions abroad?",
+      "answer": "Patients may misread norms about disclosure, family role, or clinician authority."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is infection control a concern in cross-border care?",
+      "answer": "Travel and differing standards can spread resistant organisms or other complications."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why do some countries actively promote medical tourism?",
+      "answer": "It brings revenue, prestige, and investment."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can luxury framing distort medical judgment?",
+      "answer": "Selling care as a travel product can downplay that it is still serious medicine."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is medical tourism both a personal choice and a system-level justice issue?",
+      "answer": "Individual travel decisions can reshape national priorities and local resource allocation."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why can a successful outcome still leave ethical problems in medical tourism?",
+      "answer": "The patient may benefit even if the system serving them is unfair to local people."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "How does cross-border fertility or transplant travel intensify ethical concerns?",
+      "answer": "It can involve vulnerable bodies, weak regulation, and major power imbalances."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is responsibility fragmented in medical tourism?",
+      "answer": "Brokers, foreign clinics, insurers, and home doctors may each hold only part of the duty."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why can choice in medical tourism be less free than it looks?",
+      "answer": "The decision may be driven by unaffordable prices or blocked access at home."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why should ethical review of medical tourism look beyond the traveler alone?",
+      "answer": "The effects also fall on donors, surrogates, local patients, and health systems."
+    }
+  ],
+  "Psychiatry, Mental illness, and Paternalism": [
+    {
+      "difficulty": "Easy",
+      "question": "What is psychiatric paternalism?",
+      "answer": "It concerns when protection is justified and when it becomes wrongful control."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is mental illness and autonomy?",
+      "answer": "The difficulty is that judgment and capacity may themselves be disputed."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is covert medication?",
+      "answer": "It raises conflict between possible benefit and deception."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is mental health stigma?",
+      "answer": "Fear of shame or professional harm can keep people from seeking care."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is treatment refusal in psychiatry?",
+      "answer": "Refusal creates pressure to decide whether protection should override present wishes."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is trust in psychiatric care?",
+      "answer": "Trust matters because long-term cooperation is central to treatment."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is history of psychiatric abuse?",
+      "answer": "Past overreach makes modern coercion ethically suspect."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is nonadherence?",
+      "answer": "It is a practical and moral problem because it can trigger force, deception, or override."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is covert medication in food or drink?",
+      "answer": "It may protect a patient, but it also uses deception and can destroy trust."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What does Ulysses contract mean?",
+      "answer": "It is a prior directive allowing future intervention during relapse or loss of stable judgment."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What are physicians avoiding mental health care?",
+      "answer": "They may fear stigma, licensing consequences, insurance problems, or privacy loss."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What does privacy and the ADA show?",
+      "answer": "These protections support confidential treatment-seeking but do not erase safety concerns."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is impaired judgment?",
+      "answer": "It can justify intervention when a clinician believes the patient is endangering self or others."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is nonadherence to treatment?",
+      "answer": "Repeated refusal can become the trigger for paternalistic decisions."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What are lobotomy and diagnostic misuse?",
+      "answer": "These histories warn that psychiatric authority can exceed ethical limits."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is truth versus beneficence?",
+      "answer": "Covert medication dramatizes the clash between honesty and perceived protection."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in why psychiatry is uniquely unstable ethically?",
+      "answer": "The patient's ability to choose may itself be the subject of dispute."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in controversy over Ulysses contracts?",
+      "answer": "Earlier wishes may conflict sharply with present refusal when competence is uncertain."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in deception as treatment?",
+      "answer": "Even well-intended deception can permanently weaken therapeutic trust."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in protection sliding into domination?",
+      "answer": "That is the core risk whenever psychiatric power overrides present resistance."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is paternalism in psychiatry?",
+      "answer": "It is overriding a person's wishes for the person's safety or welfare."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why is capacity important in mental health care?",
+      "answer": "Some illnesses can affect judgment, understanding, or control."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is involuntary treatment?",
+      "answer": "It is treatment given without the patient's consent under legal standards."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why is suicide risk ethically urgent?",
+      "answer": "The danger can be immediate and life-threatening."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is stigma in mental illness?",
+      "answer": "Stigma is social discredit attached to mental disorder."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why can stigma block treatment?",
+      "answer": "People may avoid care because they fear shame or consequences."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is psychosis?",
+      "answer": "Psychosis is a condition involving serious distortion of reality, such as delusions or hallucinations."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is the least restrictive alternative?",
+      "answer": "It means using the option that protects safety while limiting freedom as little as possible."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why is confidentiality important in psychiatry?",
+      "answer": "Patients may only speak honestly if they trust their privacy will be respected."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is a psychiatric hold?",
+      "answer": "It is a temporary legal detention for emergency mental health evaluation or safety."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why does mental illness not automatically erase autonomy?",
+      "answer": "Many people with mental illness can still reason and choose competently."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is coercion in psychiatric care?",
+      "answer": "It is pressure or force that limits free choice."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is psychiatry especially linked to paternalism debates?",
+      "answer": "Mental illness can affect decision-making, but forced care also risks abuse and loss of liberty."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can diagnosis itself carry power?",
+      "answer": "A label can justify detention, treatment, and social control."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is dangerousness a difficult standard?",
+      "answer": "Future harm is hard to predict and prediction errors can cost liberty."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why can forced medication damage trust?",
+      "answer": "Patients may see help as domination rather than care."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can mental health law protect and harm at the same time?",
+      "answer": "It may prevent crisis while also widening state control over vulnerable people."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is physician mental health an ethical topic too?",
+      "answer": "Stigma and licensing fears can keep clinicians from seeking needed care."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why does substance use complicate capacity judgments?",
+      "answer": "Intoxication or dependency may impair reasoning without removing it completely."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How does trauma history matter in psychiatric treatment?",
+      "answer": "Coercive care can repeat patterns of fear and powerlessness."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why should symptom relief not be the only goal in psychiatry?",
+      "answer": "Liberty, identity, and long-term trust also matter."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is community support ethically relevant in mental illness?",
+      "answer": "A lack of housing, social support, or outpatient care can turn crisis into coercion."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can paternalism be weak or strong?",
+      "answer": "Weak paternalism responds to impaired choice; strong paternalism overrules a capable person's decision."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is refusal of psychiatric medication not always irrational?",
+      "answer": "Patients may reasonably dislike side effects, past harms, or tradeoffs."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is psychiatry vulnerable to becoming social control?",
+      "answer": "The power to define disorder can be used against nonconformity as well as illness."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why should capacity be assessed decision by decision instead of once and for all?",
+      "answer": "A person may be able to make some choices but not others, and capacity can change over time."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "How can the duty to prevent self-harm conflict with respect for personhood?",
+      "answer": "Saving life may require actions that deeply violate agency and dignity."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is the least restrictive alternative a moral principle, not just a legal rule?",
+      "answer": "It reflects the idea that liberty should be limited only as much as truly necessary."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why can paternalism in psychiatry feel justified in the moment yet troubling in retrospect?",
+      "answer": "Emergency fear can make force seem necessary even when later review shows preventable overreach."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is stigma itself part of the ethical landscape of mental health care?",
+      "answer": "It shapes diagnosis, treatment access, self-understanding, and willingness to seek help."
+    }
+  ],
+  "Military Medicine": [
+    {
+      "difficulty": "Easy",
+      "question": "Why does war create a special kind of medical ethics?",
+      "answer": "Combat medicine mixes care for persons with the demands of military missions."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is enhancement?",
+      "answer": "Enhancement means boosting performance beyond ordinary restoration of health."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is consent under hierarchy?",
+      "answer": "Military rank structures make free refusal harder than in civilian settings."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is performance and medicine in war?",
+      "answer": "Medicine can be pushed toward service of mission rather than healing."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What are stimulants in combat?",
+      "answer": "They are classic examples of using medicine for performance rather than treatment."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is fairness among soldiers?",
+      "answer": "Enhancement can change burdens, cohesion, and expectations within a unit."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is long-term harm?",
+      "answer": "Military benefit can end long before the bodily cost disappears."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is responsibility after enhancement?",
+      "answer": "Altered performance can complicate blame, control, and accountability."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What does Benzedrine or Pervitin show?",
+      "answer": "These wartime stimulants illustrate older forms of enhancement and their risks."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is fatigue suppression?",
+      "answer": "A major enhancement target is keeping soldiers functioning despite exhaustion."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is emotion and pain alteration?",
+      "answer": "Reducing pain or fear may increase risk-taking and weaken restraint."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is implant or bionic burdens?",
+      "answer": "Permanent modifications can create lifelong consequences beyond the military mission."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is fairness problem?",
+      "answer": "Enhanced and non-enhanced soldiers may face different expectations and risks."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is laws of war and responsibility?",
+      "answer": "If enhancement affects control, old accountability rules may fit poorly."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is mission pressure?",
+      "answer": "Even nominal consent is strained when refusal conflicts with military goals."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is healing versus performance?",
+      "answer": "The central divide is whether medicine serves the person or the war machine."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in why enhancement differs from treatment?",
+      "answer": "Its purpose is not to restore normal function but to exceed it."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in ethical vacuum claim?",
+      "answer": "Technology for enhancement is advancing faster than settled moral rules about using it."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in suppressed restraint?",
+      "answer": "Altered pain or emotion can make force more likely by removing normal braking mechanisms."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in national goals over personhood?",
+      "answer": "The deepest risk is that soldiers become instruments for performance optimization."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is military medicine?",
+      "answer": "It is medical practice within armed forces and war settings."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why does military medicine create special ethical tension?",
+      "answer": "Clinicians serve both patient care and military missions."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Who is the physician's primary patient in ordinary ethics?",
+      "answer": "The individual patient is the primary patient."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why can dual loyalty arise in the military?",
+      "answer": "Medical staff may owe duties both to the patient and to command."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is triage?",
+      "answer": "Triage is sorting patients by urgency and chance of benefit."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why is triage central in war?",
+      "answer": "Resources are limited and many casualties arrive quickly."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is force readiness?",
+      "answer": "Force readiness is the military's ability to keep personnel able to fight."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why is confidentiality harder in military settings?",
+      "answer": "Health information can affect deployment, command decisions, and unit safety."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is a medic's ethical task in combat?",
+      "answer": "To care for the wounded under dangerous and resource-limited conditions."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why are detainee cases ethically charged?",
+      "answer": "Medical professionals may be asked to work near punishment, interrogation, or confinement."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Can enemy soldiers be medical patients?",
+      "answer": "Yes. Once wounded or captured, they are still persons owed care."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why are battlefield decisions often fast and imperfect?",
+      "answer": "Danger, scarcity, and uncertainty leave little time for reflection."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is dual loyalty a core issue in military medicine?",
+      "answer": "Doctors may be pushed to favor mission goals over the individual patient's interests."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can triage in war differ from triage in civilian hospitals?",
+      "answer": "Military triage may weigh return to duty and operational needs alongside survival."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is interrogation involvement ethically problematic for clinicians?",
+      "answer": "Medical knowledge can be misused to facilitate coercion rather than healing."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why can vaccination or prophylaxis orders be more coercive in the military?",
+      "answer": "Service members accept some limits on personal choice because of collective mission demands."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can treating soldiers and civilians create conflict in combat zones?",
+      "answer": "Limited resources may force tragic choices across groups with different obligations and vulnerabilities."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is torture incompatible with medical ethics?",
+      "answer": "Medicine must not be used to inflict, enable, or conceal cruelty."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can war blur the boundary between healer and instrument of the state?",
+      "answer": "Clinicians may be drawn into intelligence, readiness, or detention roles."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is informed consent harder in the chain of command?",
+      "answer": "Rank and obedience can pressure service members to comply."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why can rehabilitation and return-to-duty goals conflict?",
+      "answer": "Healing the patient may not match the institution's desire to redeploy them quickly."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why do battlefield experiments or unproven countermeasures raise concern?",
+      "answer": "Urgency can tempt institutions to lower protections for service members."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How does moral injury affect military medicine?",
+      "answer": "Clinicians may be harmed by participating in or witnessing actions that violate deeply held values."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why does caring for enemy combatants test ethical commitments?",
+      "answer": "It requires treating a person humanely even while that person is seen as an enemy."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why does military medicine challenge the idea that the doctor's loyalty is singular?",
+      "answer": "The profession's patient-centered ethic collides with institutional demands of war."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why can secrecy be both necessary and dangerous in military health care?",
+      "answer": "Operational secrecy may protect missions but can also hide abuse or block accountability."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "How does wartime scarcity change but not erase medical ethics?",
+      "answer": "Standards must adapt to conditions, yet core duties against cruelty and neglect remain."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is the use of physicians in detention settings morally explosive?",
+      "answer": "Their skills can either protect vulnerable captives or legitimize mistreatment."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why can consent in the military never be judged without attention to hierarchy?",
+      "answer": "Formal agreement may occur in a structure built on obedience and pressure."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is military medicine a test case for whether professional ethics can resist the state?",
+      "answer": "It reveals whether healing norms hold when national power demands something else."
+    }
+  ],
+  "Pandemic Ethics, Quarantine, and Biosecurity": [
+    {
+      "difficulty": "Easy",
+      "question": "What is pandemic ethics?",
+      "answer": "It centers on the conflict between collective safety and individual liberty."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Who belongs in quarantine rather than isolation?",
+      "answer": "People who were exposed and may become sick belong in quarantine."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why does biosecurity focus on prevention before attack or outbreak?",
+      "answer": "It aims to stop dangerous biological threats before they spread."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What are infectious disease and freedom?",
+      "answer": "Contagion changes liberty because one person's choice can harm many others."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is zoonotic disease?",
+      "answer": "Animal reservoirs make disease control harder because infection can re-enter human populations."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is public trust in outbreaks?",
+      "answer": "Trust depends on transparency, timely warning, and fair use of public-health power."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is outbreak response?",
+      "answer": "Institutions must protect both the public and the workers facing direct risk."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is history of plague control?",
+      "answer": "It shows that disease measures can become coercive, discriminatory, or destructive."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is quarante giorni?",
+      "answer": "The word quarantine comes from the Italian practice of forty days of isolation."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What does Black Death show?",
+      "answer": "Early quarantine history is tied to plague and fear of contagious spread."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What does Honolulu 1899 show?",
+      "answer": "It shows how disease control can produce racialized destruction and displacement."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What does R value show?",
+      "answer": "Transmission below one dies out, while transmission above one grows."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is healthcare worker duty?",
+      "answer": "Institutions owe real protection and honest risk communication during outbreaks."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What are anthrax and bioweapons?",
+      "answer": "They show that biology plus secrecy or weak oversight can magnify threat."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why do animal reservoirs matter in pandemics?",
+      "answer": "They let pathogens persist, mutate, and spill back into human populations."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is transparency?",
+      "answer": "Delay and secrecy worsen spread and undermine trust."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in why quarantine differs from ordinary state control?",
+      "answer": "It restricts liberty specifically because contagious harm crosses from one person to many others."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in justice in quarantine?",
+      "answer": "The burden of restriction must be proportionate and not used as a cover for discrimination."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in why spillover matters ethically?",
+      "answer": "Human outbreaks are harder to control when the source survives outside human populations."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in outbreak ethics beyond clinic walls?",
+      "answer": "The topic merges medicine with law, coercion, labor risk, and state power."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is a pandemic?",
+      "answer": "A pandemic is a widespread outbreak that crosses large regions or countries."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is quarantine?",
+      "answer": "Quarantine restricts movement of people exposed to disease but not yet known to be sick."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is isolation?",
+      "answer": "Isolation separates people who are known to be infected."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why is public health different from bedside medicine?",
+      "answer": "It focuses on populations, not only one patient at a time."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is biosecurity?",
+      "answer": "Biosecurity involves preventing dangerous biological threats, whether natural or human-made."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why can liberty be restricted during outbreaks?",
+      "answer": "Uncontrolled spread can seriously harm others."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is contact tracing?",
+      "answer": "Contact tracing identifies and notifies people who may have been exposed."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why are vaccines ethically important in pandemics?",
+      "answer": "They can reduce harm to both individuals and communities."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is a lockdown?",
+      "answer": "A lockdown is a broad restriction on movement and activity to slow spread."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why does trust matter in public health emergencies?",
+      "answer": "People cooperate more when they believe authorities are honest and fair."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is rationing during a pandemic?",
+      "answer": "Rationing is limiting scarce care or supplies according to priority rules."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why can masks become an ethical issue?",
+      "answer": "Mask rules balance personal freedom against risk to others."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is quarantine ethically different from punishment?",
+      "answer": "Its goal is disease control, not blame or retribution."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why must public health restrictions meet a standard of necessity?",
+      "answer": "Coercion should be used only when less restrictive options are not enough."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can pandemics expose social inequality?",
+      "answer": "Poorer groups often face higher exposure, worse care access, and greater economic harm."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is transparency crucial in outbreak response?",
+      "answer": "Hidden data or shifting messages erode trust and compliance."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why can school closures create ethical tradeoffs?",
+      "answer": "They may reduce spread while harming education, food access, and family stability."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How does triage become more painful during a pandemic?",
+      "answer": "Many patients may need help at once while staff, beds, and equipment are limited."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is global vaccine allocation an ethical issue?",
+      "answer": "Rich countries can secure doses first while poorer countries wait despite high need."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why can biosecurity measures threaten privacy?",
+      "answer": "Surveillance tools may collect personal data far beyond what is justified."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why should emergency powers have limits?",
+      "answer": "Temporary crisis powers can become normalized if not checked."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can misinformation worsen ethical problems in pandemics?",
+      "answer": "False claims increase preventable harm and undermine coordinated response."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why does reciprocity matter when society imposes restrictions?",
+      "answer": "If people bear burdens for public safety, society owes them support and protection."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What makes mandatory vaccination ethically controversial?",
+      "answer": "It can protect the public but also overrides personal choice."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is the least restrictive means principle central in pandemic ethics?",
+      "answer": "Public health may limit liberty, but it should do so no more than necessary."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is fairness as important as efficiency in crisis allocation?",
+      "answer": "A fast policy that abandons vulnerable groups may still be morally unacceptable."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "How can pandemic policy save lives while still deepen injustice?",
+      "answer": "The same rule can protect the population yet burden workers, minorities, or the poor disproportionately."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is public trust a moral resource in a pandemic?",
+      "answer": "Without trust, even scientifically sound measures may fail or require excessive coercion."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why can biosecurity logic become dangerous if left unchecked?",
+      "answer": "Fear of threats can justify surveillance, secrecy, and harsh control beyond what evidence supports."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why must pandemic ethics think globally instead of only nationally?",
+      "answer": "Viruses cross borders, and moral obligations do not disappear at national lines."
+    }
+  ],
+  "Genetics, biobanks, and the right not to know": [
+    {
+      "difficulty": "Easy",
+      "question": "What is biobank?",
+      "answer": "A biobank stores records, tissue, and genetic data that can later reveal personal information."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is right not to know?",
+      "answer": "It is the claim that a person may refuse unwanted genetic risk information."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why can old genetic samples become important later?",
+      "answer": "Stored samples can become newly important as science advances."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is privacy in genetic research?",
+      "answer": "Genetic data can be highly personal even when gathered for research rather than treatment."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is warning participants?",
+      "answer": "Researchers face pressure over whether to recontact people about serious findings."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What are genetic burden?",
+      "answer": "Knowledge can bring anxiety, family consequences, and practical worries rather than only benefit."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is research versus care?",
+      "answer": "The line blurs when researchers start acting like clinicians toward participants."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is autonomy and disclosure?",
+      "answer": "The core conflict is between possible benefit and respect for refusal."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What does 500,000-participant British biobank example mean?",
+      "answer": "It illustrates the scale of modern repositories that may later generate actionable findings."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is actionable variant?",
+      "answer": "A research result becomes ethically heavier when it points to preventable or serious disease."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is consent forms and recontact?",
+      "answer": "Advance warning can shape what participants should expect later."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is offering but not forcing information?",
+      "answer": "This approach tries to preserve benefit without destroying autonomy."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is insurance and family worries?",
+      "answer": "People may reject information because it affects more than personal curiosity."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is traceability versus anonymity?",
+      "answer": "Anonymity protects privacy, while traceability makes warning possible."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is research data becoming personal health information?",
+      "answer": "This shift creates obligations that were not present at initial collection."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is participant refusal?",
+      "answer": "Refusing genetic knowledge can itself be an autonomy claim rather than irrationality."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in why disclosure is not automatically correct?",
+      "answer": "Medically useful information can still violate a person's deliberate refusal of knowledge."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in why the research-care boundary matters?",
+      "answer": "Research aims to generate knowledge, while clinical care aims directly at an individual's welfare."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in late-arising obligations?",
+      "answer": "Biobanks can create duties long after samples were originally collected."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in distance protected by anonymity?",
+      "answer": "Anonymity prevents unwanted personal targeting even when risky knowledge exists."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is genetic information?",
+      "answer": "It is information about inherited traits, variants, and disease risk."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why do researchers build biobanks?",
+      "answer": "They build biobanks to store samples and data for future study."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why might a person refuse to hear a genetic result?",
+      "answer": "They may choose not to know because the information could bring anxiety, stigma, or unwanted burdens."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why can genetic results matter before symptoms appear?",
+      "answer": "They may reveal future risk long before disease develops."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is a variant?",
+      "answer": "A variant is a difference in DNA sequence."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why is family relevant in genetics?",
+      "answer": "One person's result can imply risk for relatives too."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is incidental finding?",
+      "answer": "It is an unexpected result discovered while looking for something else."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why are biobanks ethically important?",
+      "answer": "They raise questions about consent, privacy, data use, and benefit sharing."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is genetic discrimination?",
+      "answer": "It is unfair treatment based on genetic information."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why can people want genetic knowledge?",
+      "answer": "It may help with planning, screening, and prevention."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why can people avoid genetic knowledge?",
+      "answer": "They may fear anxiety, stigma, or changes in life plans."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is re-identification risk?",
+      "answer": "It is the chance that supposedly anonymous data can be linked back to a person."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is the right not to know ethically attractive?",
+      "answer": "It respects autonomy over deeply personal future-oriented information."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is the right not to know ethically limited?",
+      "answer": "Some findings may be preventable or important for relatives' health."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can genetic information burden family relationships?",
+      "answer": "It may create duties to warn, guilt, blame, or conflict over disclosure."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is broad consent for biobanks debated?",
+      "answer": "Participants may agree to future unspecified research they cannot fully imagine."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why are actionable findings treated differently from nonactionable ones?",
+      "answer": "Preventable or treatable risks may give stronger reasons for disclosure."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can data sharing help science and threaten privacy at the same time?",
+      "answer": "Larger datasets improve research, but wider access increases exposure risk."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why can genetic risk be misunderstood?",
+      "answer": "Risk is probabilistic, not a simple prediction that disease will definitely occur."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is community trust important for biobanks?",
+      "answer": "People may refuse participation if they fear misuse of samples or data."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is the ethical problem with using samples beyond the original purpose?",
+      "answer": "People may be drawn into research they never truly chose."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why can insurance concerns shape genetic choices?",
+      "answer": "People may avoid testing if they fear economic consequences."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can ancestry data raise ethical concerns?",
+      "answer": "It can affect identity claims, privacy, and group harms."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is returning results not a simple yes-or-no question?",
+      "answer": "Different findings vary in certainty, usefulness, and emotional burden."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is genetic knowledge morally different from many other medical facts?",
+      "answer": "It is predictive, familial, and often meaningful long before illness exists."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why can respecting one person's privacy conflict with protecting relatives?",
+      "answer": "Keeping a result secret may leave family members unaware of serious avoidable risks."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "How do biobanks turn donated tissue into an ethics question about governance?",
+      "answer": "The key issue becomes who may use samples, for what aims, and under whose control."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is consent in genomic research hard to make fully specific?",
+      "answer": "Future uses, technologies, and findings cannot all be known in advance."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why can the right not to know clash with a clinician's duty to warn?",
+      "answer": "A doctor may see silence as leaving preventable harm unaddressed."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why does genetic information challenge the idea that medical data belongs only to one person?",
+      "answer": "Its meaning often extends beyond the individual to relatives and even groups."
+    }
+  ],
+  "AI and Brain-computer Interfaces": [
+    {
+      "difficulty": "Easy",
+      "question": "Why is AI growing in medicine?",
+      "answer": "AI is rising because medicine now produces more information than humans can manage alone."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "How is AI used as support in medicine?",
+      "answer": "The main model is assistance to human judgment rather than complete replacement."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is a Centaur doctor?",
+      "answer": "The centaur idea combines machine strengths with human clinical judgment."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is diagnostic bias?",
+      "answer": "AI may help by noticing patterns that humans miss or misread."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is brain-computer interface?",
+      "answer": "BCIs aim to link brain signals to communication or control."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why can hope around BCIs become risky?",
+      "answer": "The promise of communication can create unrealistic expectations."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why does BCI communication not automatically prove decision-making capacity?",
+      "answer": "Producing signals is not the same as proving full informed decisional ability."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is invasiveness?",
+      "answer": "BCIs pose tradeoffs between potential benefit and physical burden or risk."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is information overload?",
+      "answer": "Modern medicine is too data-heavy for unaided human recall and correlation."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is decision support?",
+      "answer": "AI is framed as helping physicians store, retrieve, and relate information."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is medication safety?",
+      "answer": "AI may reduce prescribing error by flagging dangerous combinations or doses."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is anchoring bias?",
+      "answer": "One attraction of AI is its potential to counter human cognitive shortcuts."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What ethical questions do social robots raise?",
+      "answer": "They raise questions about how much power vulnerable people should hand to machines."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What does BCI cognitive demand show?",
+      "answer": "Using a BCI may require sustained planning and concentration."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What can restored communication through a BCI show?",
+      "answer": "A BCI can aid expression without demonstrating full medical judgment."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is human final judgment?",
+      "answer": "The model still leaves interpretation and responsibility with clinicians."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in deepest BCI consent problem?",
+      "answer": "Signals of communication may be mistaken for proof of broader understanding and autonomy."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in why hope itself becomes risky?",
+      "answer": "Optimistic interpretation can distort consent, family expectation, and clinical judgment."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in why AI is not pure replacement?",
+      "answer": "The value of AI depends on preserving human reasoning over machine output."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in machine assistance and ethical necessity?",
+      "answer": "If AI reliably reduces avoidable error, refusing it may itself become ethically questionable."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is AI in medicine?",
+      "answer": "It is the use of computational systems to assist prediction, diagnosis, or decision-making."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "How does a brain-computer interface link the brain to a device?",
+      "answer": "It translates brain signals into commands for a computer or machine."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why is AI attractive in health care?",
+      "answer": "It can detect patterns quickly and handle large amounts of data."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is algorithmic bias?",
+      "answer": "It is systematic unfairness built into a model or its data."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why do data matter for medical AI?",
+      "answer": "The system learns from the examples it is given."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is a false positive?",
+      "answer": "It is a result that wrongly says a condition is present."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is a false negative?",
+      "answer": "It is a result that wrongly misses a condition."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why is explainability discussed in AI ethics?",
+      "answer": "People may need reasons for a recommendation, not just an output."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What can a brain-computer interface help someone do?",
+      "answer": "It can help restore communication, movement, or control of devices."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why is privacy especially important with brain data?",
+      "answer": "Brain signals may reveal very personal information about thought or intention."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is automation bias?",
+      "answer": "It is the tendency to trust machine output too much."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why can AI errors be dangerous in medicine?",
+      "answer": "Bad outputs can affect diagnosis, treatment, or triage."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why can accurate AI still be ethically problematic?",
+      "answer": "It may be unfair, opaque, or deployed in the wrong setting."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can biased training data harm patients?",
+      "answer": "Groups poorly represented in the data may get worse predictions or misdiagnosis."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is human oversight important with medical AI?",
+      "answer": "Clinicians must judge when the tool fits the patient and when it fails."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why do brain-computer interfaces raise questions about agency?",
+      "answer": "If a machine helps produce an action, it becomes harder to say who fully authored it."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can AI change the doctor-patient relationship?",
+      "answer": "It may shift attention toward screens, scores, and predictions rather than direct interaction."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is consent harder with complex AI systems?",
+      "answer": "Patients may not understand how the model works or how their data are used."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why can predictive AI increase surveillance?",
+      "answer": "It encourages more monitoring to feed the model and track risk."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can brain implants create dependency?",
+      "answer": "Users may rely on devices, companies, updates, or repairs to keep basic abilities."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why are commercial interests important in AI ethics?",
+      "answer": "Companies may control the data, the model, and the incentives for deployment."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why can an algorithm seem objective even when it is not?",
+      "answer": "Its mathematical form can hide value choices in labels, targets, and design."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can AI worsen inequality in care?",
+      "answer": "Well-resourced systems may get better tools while weaker systems fall further behind."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why should performance be tested in the real world, not only in the lab?",
+      "answer": "A model can look strong in development yet fail in actual clinical settings."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is explainability not the only value in medical AI?",
+      "answer": "A system also has to be accurate, fair, safe, and properly governed."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why do brain-computer interfaces raise questions about mental privacy?",
+      "answer": "They could access or infer inner states that were once unreachable by others."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "How can AI alter accountability in medicine?",
+      "answer": "When harm occurs, responsibility may be split among clinicians, hospitals, designers, and vendors."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is agency ethically fragile in assistive brain-computer systems?",
+      "answer": "The device can both empower the user and partly shape what the user can do."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why can algorithmic prediction become self-fulfilling?",
+      "answer": "A risk score may change how clinicians treat someone, helping produce the very outcome predicted."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why must AI ethics ask not only whether a model works but also what kind of medicine it creates?",
+      "answer": "Tools can quietly reshape care toward monitoring, standardization, and control."
+    }
+  ],
+  "Future-Oriented Medicine": [
+    {
+      "difficulty": "Easy",
+      "question": "Why does future-oriented medicine look ahead instead of waiting for symptoms?",
+      "answer": "It tries to find and manage risk before full disease appears."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is prediction before disease?",
+      "answer": "The aim is to detect vulnerability before obvious illness appears."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is genetics and future risk?",
+      "answer": "Genetics can reveal susceptibility before symptoms develop."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "How can a body seem older or younger than the calendar says?",
+      "answer": "Biological age estimates functional wear rather than years since birth."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What does AI prediction show?",
+      "answer": "AI is used to identify disease patterns humans might not detect early enough."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is surveillance after prediction?",
+      "answer": "Prediction often leads to monitoring and preventive management."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why do aging researchers care about health span and not just lifespan?",
+      "answer": "They want people to live more years in good function, not only more years alive."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is unequal predictive benefit?",
+      "answer": "New tools may widen inequality if access stays concentrated in privileged groups."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What are proteomic organ clocks?",
+      "answer": "They estimate how rapidly particular organs are aging."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What are epigenetic clocks?",
+      "answer": "They use molecular markers to estimate biological aging and later vulnerability."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What does Alzheimer's, cancer, and heart disease prediction show?",
+      "answer": "These are examples of diseases targeted by predictive AI or biomarker systems."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is earlier intervention?",
+      "answer": "Prediction matters because it can trigger earlier screening, follow-up, or prevention."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is the difference between chronological and biological age?",
+      "answer": "Years lived may differ sharply from the body's actual condition."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What does it mean to know disease risk before illness appears?",
+      "answer": "Predictive tools deliver information before illness is outwardly present."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is surveillance burden?",
+      "answer": "Prediction can create ongoing monitoring long before a person feels sick."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is right not to know future risk?",
+      "answer": "Autonomy questions reappear when medicine can reveal vulnerability early."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in why prediction itself can burden a person?",
+      "answer": "Risk knowledge can create anxiety, identity change, and pressure before disease exists."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in justice risk of predictive medicine?",
+      "answer": "Early gains may cluster in already advantaged groups, widening health gaps."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in why health span matters more than lifespan?",
+      "answer": "Longer life is not the main goal if the added years are heavily burdened by disease."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "How does predictive medicine shift care from visible disease to managed vulnerability?",
+      "answer": "That phrase captures the deeper transformation of medicine described here."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is future-oriented medicine?",
+      "answer": "It is medicine focused on predicting and preventing future disease before symptoms appear."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why is prediction central to future-oriented medicine?",
+      "answer": "The goal is to act earlier, before full disease develops."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is biological age?",
+      "answer": "Biological age estimates how old the body seems functionally, not just years lived."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is chronological age?",
+      "answer": "Chronological age is age measured by time since birth."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why are organ clocks studied?",
+      "answer": "They try to show which organs may be aging faster or slower."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is health span?",
+      "answer": "Health span is the period of life lived in good functional health."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why is genetics important in future-oriented medicine?",
+      "answer": "Genes can reveal risk before disease is visible."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "How is AI used in predictive medicine?",
+      "answer": "AI looks for patterns that may signal future illness."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why can early detection be valuable?",
+      "answer": "It may allow earlier screening, monitoring, and intervention."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is surveillance in medicine?",
+      "answer": "It is repeated monitoring for signs of later disease."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why can prediction create anxiety?",
+      "answer": "Knowing risk early can burden a person long before any illness appears."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is prevention?",
+      "answer": "Prevention means trying to stop disease before it starts or worsens."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is future-oriented medicine different from traditional reactive medicine?",
+      "answer": "It tries to manage vulnerability before symptoms force action."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why can biological age be more useful than calendar age?",
+      "answer": "Two people the same age in years may have very different levels of bodily decline."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can prediction shift the boundary between healthy and sick?",
+      "answer": "People without symptoms may be treated as pre-patients because of their measured risk."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is the right not to know relevant here?",
+      "answer": "Some people may not want future-risk information about disease."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can predictive medicine widen inequality?",
+      "answer": "People with money may access better testing, earlier intervention, and longer health spans."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is false alarm a serious issue in prediction?",
+      "answer": "A person may undergo stress, extra tests, or treatment for a disease that never comes."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why can prevention become intrusive?",
+      "answer": "More prediction often means more monitoring, data collection, and medical oversight."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How does predictive knowledge affect identity?",
+      "answer": "A person may start seeing themselves through the lens of future disease risk."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is aging research ethically exciting and worrying at once?",
+      "answer": "It promises longer healthy life but may intensify inequality and overmedicalization."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is risk not the same as destiny?",
+      "answer": "A high risk score means greater chance, not certainty."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can future-oriented medicine change what doctors are asked to do?",
+      "answer": "Doctors may spend more time forecasting, screening, and managing probabilities."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why does organ-level aging raise new ethical questions?",
+      "answer": "It can label parts of a person as old before illness is felt or visible."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why can future-oriented medicine create patients before disease exists?",
+      "answer": "Risk prediction can place people under medical attention based on possible futures rather than present illness."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is more prediction not automatically better care?",
+      "answer": "Extra knowledge can also produce anxiety, overtreatment, and unnecessary surveillance."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "How does predictive medicine challenge the meaning of being healthy?",
+      "answer": "A person may feel well yet be classified as medically vulnerable or pre-diseased."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is justice central to anti-aging and predictive medicine?",
+      "answer": "These tools may lengthen healthy life mainly for the already advantaged."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why can prevention blur into control?",
+      "answer": "The attempt to manage future risk can justify deep monitoring of present behavior."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is future-oriented medicine ethically about time as much as technology?",
+      "answer": "It changes when medicine intervenes by pulling possible futures into the present."
+    }
+  ],
+  "Patients as Art and Diagnostic Observation": [
+    {
+      "difficulty": "Easy",
+      "question": "What is art in medical training?",
+      "answer": "Art is used to sharpen careful observation of visible bodily signs."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is diagnostic observation?",
+      "answer": "The goal is to train disciplined seeing rather than casual looking."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is visual diagnosis?",
+      "answer": "Visual clues still matter even in an age of advanced technology."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is seeing illness?",
+      "answer": "Bodies can reveal disease through appearance before machines fully explain it."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is observation as skill?",
+      "answer": "Careful looking is treated as something that can be trained and improved."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is art and medicine together?",
+      "answer": "The point is not trivia about paintings but stronger visual interpretation."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is visible signs of disease?",
+      "answer": "The section focuses on how illness can appear in posture, tissue, skin, eyes, and body form."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is technology and observation?",
+      "answer": "Machines do not erase the need for human clinical seeing."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can art reveal nutritional conditions?",
+      "answer": "Art can help train recognition of over-nutrition or under-nutrition."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can art reveal infectious disease signs?",
+      "answer": "Examples include diphtheria, plague, and influenza-related appearance clues."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can art reveal blood or tissue conditions?",
+      "answer": "Art can support observation of problems like polycythemia or gangrene."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is strabismus?",
+      "answer": "Eye alignment is an example of a visible sign that careful observation can detect."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is pattern recognition through images?",
+      "answer": "Students learn to connect visible appearance with possible illness."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is disciplined attention?",
+      "answer": "The task is to slow down and notice details rather than glance past them."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What is predictive era and visual skill?",
+      "answer": "High-tech medicine still depends on trained observation."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is the patient treated as visible evidence in diagnostic observation?",
+      "answer": "The body itself can provide diagnostic clues before further testing."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in why the phrase 'patients as art' can mislead?",
+      "answer": "The aim is observation training, not turning patients into aesthetic objects."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in why this is not guess-the-diagnosis trivia?",
+      "answer": "The section is about strengthening a clinical skill that supports diagnosis."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in human seeing as clinical method?",
+      "answer": "The deeper claim is that observation remains a real method of medical knowledge."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "What is the core ethical problem in rushing past the body?",
+      "answer": "The section warns that bad observation can miss disease even when technology exists."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why is close looking part of diagnosis?",
+      "answer": "Careful observation can reveal signs that guide medical judgment."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why has looking been important in medicine?",
+      "answer": "Visual clues can reveal disease, distress, or bodily change."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is the risk of treating patients like art objects?",
+      "answer": "The person can be reduced to an image for study rather than respected as a subject."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why can observation help diagnosis?",
+      "answer": "Some conditions show themselves through posture, skin, movement, or expression."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is objectification?",
+      "answer": "Objectification is treating a person mainly as a thing to be examined or used."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why is dignity relevant during examination?",
+      "answer": "A patient should not lose personhood while being observed or displayed."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is the clinical gaze?",
+      "answer": "It is the habit of seeing the body as a medical object of analysis."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why can photographs raise ethical issues in medicine?",
+      "answer": "Images can expose identity, privacy, or vulnerability."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "What is diagnostic pattern recognition?",
+      "answer": "It is recognizing illness from recurring visible features or signs."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why should a patient know when images are being taken?",
+      "answer": "Because consent matters for documentation and teaching use."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "How can staring become harmful in medicine?",
+      "answer": "It can make the patient feel exposed, judged, or dehumanized."
+    },
+    {
+      "difficulty": "Easy",
+      "question": "Why is bedside manner relevant to observation?",
+      "answer": "How a clinician looks and speaks can shape whether the patient feels respected."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why can good observation conflict with respect for privacy?",
+      "answer": "Careful visual attention may require exposure that the patient experiences as intrusive."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can art sharpen medical attention?",
+      "answer": "Studying images can train close noticing of detail, pattern, and ambiguity."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is there danger in turning suffering into a teaching image?",
+      "answer": "Educational value can eclipse the lived pain of the person pictured."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can the clinical gaze miss the patient as a person?",
+      "answer": "It may focus on signs and lesions while ignoring fear, voice, and story."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why does context matter in visual diagnosis?",
+      "answer": "The same visible sign can mean different things in different people or settings."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why must diagnostic images be handled carefully even when useful?",
+      "answer": "Reuse, display, or sharing can violate trust if boundaries are unclear."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can observation reflect bias?",
+      "answer": "Clinicians may read bodies differently based on race, gender, age, or disability stereotypes."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why is curiosity ethically double-edged in medicine?",
+      "answer": "Curiosity can improve diagnosis but can also slide into voyeurism."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "What makes a medical image more than just data?",
+      "answer": "It is still tied to a real person with identity and vulnerability."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why should teaching with patient images include ethical limits?",
+      "answer": "Learners need to see that educational benefit does not erase duties of respect."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "How can art and medicine both depend on interpretation?",
+      "answer": "Neither seeing nor meaning is automatic; both require judgment."
+    },
+    {
+      "difficulty": "Medium",
+      "question": "Why can repeated exposure to bodies numb clinicians?",
+      "answer": "Routine can dull awareness that every case involves a person, not just a specimen."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is seeing in medicine never morally neutral?",
+      "answer": "The way a body is viewed can shape power, distance, and respect."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "How can observation be both necessary and dehumanizing?",
+      "answer": "Diagnosis often requires scrutiny, yet scrutiny can strip away the patient's subjectivity."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why does the phrase patients as art point to a moral warning?",
+      "answer": "Aesthetic interest in unusual bodies can overshadow care for the person living in that body."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why is consent especially important for educational display of patient images?",
+      "answer": "The patient may lose control over how their body is seen long after the clinical encounter."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "How can the clinical gaze produce knowledge while also producing distance?",
+      "answer": "It reveals patterns of disease by abstracting the body from the person's life."
+    },
+    {
+      "difficulty": "Hard",
+      "question": "Why should diagnostic skill include ethical self-awareness about looking?",
+      "answer": "A clinician must notice not only what is seen but also what kind of relationship that seeing creates."
+    }
+  ]
+}
+
